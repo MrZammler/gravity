@@ -1,0 +1,1 @@
+socat pty,raw,echo=0,link=/home/evas/stuff/coding/gravity/logs/logfile -,raw,echo=0
